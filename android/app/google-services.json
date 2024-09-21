@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "512237921526",
+    "project_id": "instegram-aada7",
+    "storage_bucket": "instegram-aada7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512237921526:android:e9ba2e2652ecb9cbe878d7",
+        "android_client_info": {
+          "package_name": "com.example.instegram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDagitm8tTpWvUPcdOhdNrMlW-T6nKGBH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
